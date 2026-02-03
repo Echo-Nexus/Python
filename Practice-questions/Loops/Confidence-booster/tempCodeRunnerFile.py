@@ -1,4 +1,6 @@
 # Using while loop with if condition
+
+num = int(input("Enter a number : "))
 i = 1
 while i <= num :
   if (i % 2 == 0):
