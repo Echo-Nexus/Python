@@ -6,3 +6,9 @@
 
 ```bash
 git clone https://www.github.com/Echo-Nexus/Python
+```
+<h3>Numpy Resource : </h3>
+
+```
+https://youtu.be/9DhZ-JCWvDw?si=i7kNuXJBCjLGeatv
+```
