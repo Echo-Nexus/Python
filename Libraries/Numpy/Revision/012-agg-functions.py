@@ -1,0 +1,12 @@
+import numpy as np
+arr = np.array([[10,20,30,40,50]])
+print(f"Sum: {arr.sum()}")
+print(f"Min: {arr.min()}")
+print(f"Max: {arr.max()}")
+print(f"Mean: {arr.mean()}")
+print(f"Std Dev: {arr.std()}")
+print(f"Variance: {arr.var()}")
+print(f"Argmin: {arr.argmin()}")
+print(f"Argmax: {arr.argmax()}")
+print(f"Cumsum: {arr.cumsum()}")
+print(f"Cumprod: {arr.cumprod()}")
